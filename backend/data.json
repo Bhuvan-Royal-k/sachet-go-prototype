@@ -1,0 +1,12 @@
+[
+  { "id": 1, "name": "Sunsilk Black Shine", "price": 2, "category": "Personal Care" },
+  { "id": 2, "name": "Dove Hair Fall Rescue", "price": 3, "category": "Personal Care" },
+  { "id": 3, "name": "Bru Instant Coffee", "price": 2, "category": "Food" },
+  { "id": 4, "name": "Nescafe Classic", "price": 2, "category": "Food" },
+  { "id": 5, "name": "Surf Excel Matic", "price": 10, "category": "Home Care" },
+  { "id": 6, "name": "Comfort Blue", "price": 4, "category": "Home Care" },
+  { "id": 7, "name": "Boost Health Drink", "price": 5, "category": "Food" },
+  { "id": 8, "name": "Horlicks Sachet", "price": 5, "category": "Food" },
+  { "id": 9, "name": "Pond's Bright Beauty", "price": 10, "category": "Personal Care" },
+  { "id": 10, "name": "Vaseline Jelly", "price": 5, "category": "Personal Care" }
+]
