@@ -3,12 +3,14 @@ const cors = require('cors');
 const products = require('./data.json');
 
 const app = express();
-// Use Render's port or default to 5000
+
+// CRITICAL FOR HOSTING: Render will provide a port via environment variables
 const PORT = process.env.PORT || 5000;
 
+// Allow the frontend to talk to this server
 app.use(cors());
 
-// Route to get all products
+// The Products API
 app.get('/api/products', (req, res) => {
   res.json(products);
 });
